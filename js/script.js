@@ -15,7 +15,7 @@ if (navigator.serviceWorker) {
 
 ;("use·strict")
 
-window.onload = function( ) {
+window.onload = function () {
   // this calculates volume of a pyramid
 
   const params = new URLSearchParams(document.location.search)
