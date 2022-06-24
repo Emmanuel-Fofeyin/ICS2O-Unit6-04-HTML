@@ -1,21 +1,33 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2022 Marshall All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Marshall
+// Created on: June 2022
 // This file contains the JS functions for index.html
 
 /**
  * Check servie worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/github-page-pwa/sw.js", {
-    scope: "/github-page-pwa/",
+  navigator.serviceWorker.register("/ICS2O-Unit6-04-HTML/sw.js", {
+    scope: "/ICS2O-Unit6-04-HTML/",
   })
 }
 
-/**
- * This function displays an alert.
- */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Hello, World!</p>"
+"use strict"
+
+window.onload = function() {
+  // this calculates volume of a pyramid
+
+  const params = new URLSearchParams(document.location.search)
+  
+  // input
+  const radiusSphere = params.get('r')
+
+  // process
+  const volume = 4/3 * Math.PI * Math.pow(radiusSphere, 3)
+  const dimensions = "<ul>\n<li>r = " + radiusSphere
+
+  // output
+  document.getElementById('dimensions').innerHTML = dimensions
+  document.getElementById('volume').innerHTML = 'Volume is: ' + volume.toFixed(2) + ' cm³'
 }
