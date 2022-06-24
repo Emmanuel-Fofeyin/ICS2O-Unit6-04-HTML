@@ -1,9 +1,7 @@
-# ICS2O-PWA-Template-HTML
+ICS2O-Unit6-04-HTML
 
-Template to make an MDL, PWA website, on GitHub pages.
+[![GitHub's Super Linter](https://github.com/Emmanuel-Fofeyin/ICS2O-Unit6-04-HTML/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Emmanuel-Fofeyin/ICS2O-Unit6-04-HTML/actions)
 
-[![Mr Coxall's Super Linter](https://github.com/mr-coxall/github-page-pwa/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/mr-coxall/github-page-pwa/actions)
+[![Run on Repl.it](https://repl.it/badge/github/Emmanuel-Fofeyin/ICS2O-Unit6-04-HTML)](https://repl.it/github/Emmanuel-Fofeyin/ICS2O-Unit6-04-HTML)
 
-[![Run on Repl.it](https://repl.it/badge/github/mr-coxall/github-page-pwa)](https://repl.it/github/mr-coxall/github-page-pwa)
-
-This site can be found at: [https://mr-coxall.github.io/github-page-pwa/](https://mr-coxall.github.io/github-page-pwa/)
+This site can be found at: [https://Emmanuel-Fofeyin/ICS2O-Unit6-04-HTML](https://Emmanuel-Fofeyin/ICS2O-Unit6-04-HTML)
