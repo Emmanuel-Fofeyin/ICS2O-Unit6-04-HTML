@@ -1,6 +1,6 @@
 // Copyright (c) 2022 Marshall All rights reserved
 //
-// Created by: Marshall
+// Created by: Emmanuel fofeyin
 // Created on: June 2022
 // This file contains the JS functions for index.html
 
