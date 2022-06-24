@@ -1,7 +1,7 @@
 {
-  "name": "V with Quere String",
-  "short_name": "V with Quere String",
-  "description": "Github Page for V with Quere String",
+  "name": "V with Query String",
+  "short_name": "V with Query String",
+  "description": "Github Page for V with Query String",
   "scope": "/ICS2O-Unit6-04-HTML/",
   "start_url": "/ICS2O-Unit6-04-HTML/",
   "background_color": "#ffffff",
