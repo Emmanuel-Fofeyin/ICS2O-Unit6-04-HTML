@@ -5,7 +5,7 @@
 // This file contains the JS functions for index.html
 
 /**
- * Check servie worker.
+ * Check service worker.
  */
 if (navigator.serviceWorker) {
   navigator.serviceWorker.register("/ICS2O-Unit6-04-HTML/sw.js", {
